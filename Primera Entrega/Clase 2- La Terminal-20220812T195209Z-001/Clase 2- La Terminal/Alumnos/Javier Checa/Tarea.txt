@@ -1,0 +1,135 @@
+javie@DESKTOP-PD2BFG3 MINGW64 ~
+$ cd c:/Users/javie/Desktop
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop
+$ mkdir DH
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop
+$ cd DH
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH
+$ mkdir repaso_clase1y2
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH
+$ cd repaso_clase1y2
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2
+$ mkdir historia_de_la_contabilidad
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2
+$ cd..
+bash: cd..: command not found
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2
+$ cd ..
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH
+$ cd repaso_clase1y2
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2
+$ touch repaso.txt
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2
+$ cd ..
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH
+$ cd c:/Users/javie/Desktop/DH/repaso_clase1y2/historia_de_la_contabilidad
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2/historia_de_la_contabilidad
+$ touch repaso
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2/historia_de_la_contabilidad
+$ touch repaso.txt
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2/historia_de_la_contabilidad
+$ cd ..
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2
+$ mkdir servidores
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2
+$ cd servidores
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2/servidores
+$ touch repaso.txt
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2/servidores
+$ cd ..
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2
+$ mkdir interfaces_de_usuario
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2
+$ cd interfaces_de_usuario
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2/interfaces_de_usuario
+$ touch repaso.txt
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2/interfaces_de_usuario
+$ cd ..
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2
+$ mkdir que_haremos_hoy
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2
+$ cd que_haremos_hoy
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2/que_haremos_hoy
+$ touch repaso.txt
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2/que_haremos_hoy
+$ cd ..
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2
+$ mkdir infraestructura
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2
+$ cd infraestructura
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2/infraestructura
+$ touch repaso.txt
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2/infraestructura
+$ cd ..
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH/repaso_clase1y2
+$ cd ..
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH
+$ ls-r
+bash: ls-r: command not found
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH
+$ ls -r
+repaso_clase1y2/
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH
+$ pwd
+/c/Users/javie/Desktop/DH
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH
+$ ls -R
+.:
+repaso_clase1y2/
+
+./repaso_clase1y2:
+historia_de_la_contabilidad/  interfaces_de_usuario/  repaso.txt
+infraestructura/              que_haremos_hoy/        servidores/
+
+./repaso_clase1y2/historia_de_la_contabilidad:
+repaso  repaso.txt
+
+./repaso_clase1y2/infraestructura:
+repaso.txt
+
+./repaso_clase1y2/interfaces_de_usuario:
+repaso.txt
+
+./repaso_clase1y2/que_haremos_hoy:
+repaso.txt
+
+./repaso_clase1y2/servidores:
+repaso.txt
+
+javie@DESKTOP-PD2BFG3 MINGW64 ~/Desktop/DH
+$

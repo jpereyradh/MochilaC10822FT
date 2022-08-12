@@ -1,0 +1,5 @@
+Comando punto 2:
+mkdir ./peliculas/Accion ./peliculas/Terror ./peliculas/Comedia ./peliculas/Romanticas
+
+Comando punto 3: 
+touch ./peliculas/infantiles/Intenzamente.txt ./peliculas/infantiles/"El juego del miedo".xls ./peliculas/infantiles/"Rapido y furioso".pdf ./peliculas/infantiles/Titanic.jpg
