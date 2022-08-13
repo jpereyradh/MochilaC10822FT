@@ -1,0 +1,17 @@
+git clone - copiar localmente un repo de Github
+
+git status - saber el estado de mi rama
+
+git checkout - pasarme a una rama
+
+git branch - crear una rama
+
+git add . -  guarda todos los cambios en el repo
+
+git commit -m - crea un commit con su mensaje
+
+git push - sube a mi repo remoto
+
+git pull - actualiza mi repo local
+
+git remote - prepara mi repo local para subirlo remotamente.

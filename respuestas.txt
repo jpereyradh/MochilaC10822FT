@@ -1,0 +1,8 @@
+a. Linus Torvalds invento Git como un controlador de 
+versiones gratuito porque el que el usaba paso a ser pago.
+
+b. Actualmente GitHub pertenece a microsoft dentro de su 
+estrategia para crear su comunidad de desarrolladores.
+
+c. En GitHub tambien se puede trabajar directamente desde su 
+interfaz grafica.
