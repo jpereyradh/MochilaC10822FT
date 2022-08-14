@@ -1,0 +1,19 @@
+
+Preguntas.
+a. ¿Quien invento el sistema de control de version Git y porque?
+b. ¿A quien pertenece actualmente Github y por que?
+c. ¿Hay otra forma que no sea la terminal para trabajar con GitHub?
+
+Respuestas.
+a. Git fue crea en el año 2005 por Linus Torvalds creador de Linux, se creo debido a que 
+durante la mayor parte del mantenimiento de linux, los cambios en el software se realizaban
+a traves de parches y archivos. En el 2002 empezo a usar un DVCS propietario llamado BitKeeper.
+Luego de que la relacion entre la comunidad que desarrollaba el kernel de linux y la compañia 
+desarrollaba BitKeeper se viniera abajo. Esto impulso a la comunidad del kernel de linux y en
+particular a Linus Torvalds a desarrollar su propia herramienta basa en algunas lecciones 
+aprendidas mientras hacian uso de BitKeeper.
+Desde su nacimiento en el 2005 ha ido evolucionando y madurando para ser facil de usar.
+
+b. GitHub fue adquirido en el año 2018 por Microsoft
+
+c.
