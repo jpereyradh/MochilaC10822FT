@@ -1,0 +1,29 @@
+CMANDOS GIT
+
+Git mkdir= crea carpeta
+
+Git touch= crea archivos
+
+Git Init= Crea respositorio local.
+
+Git add= Se le indicalos archivos que se quieren agregar.
+
+Git commit -m= Agrega archivos a repositorio local.
+
+git push= Empuja de repositorio local a repositorio en nube.
+
+git clone= clona repositorio de nube en nuestro equipo.
+
+Git branch= crea ramas paralelas de repositorio.
+
+Git pull = actualiza archivos a repositorio.
+
+Git checkout= ccambiamos de rama.
+
+Git rm -r= Elimina archivos de repositorio.
+
+Git merging= Fusiona ramas.
+
+Git log= muestra los commites realizados y quein.
+
+Git diff= para comparar cambios.
