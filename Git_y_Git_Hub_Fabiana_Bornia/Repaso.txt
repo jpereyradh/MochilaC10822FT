@@ -1,0 +1,8 @@
+Definimos como control de versiones a la gestión de los diversos cambios que se realizan sobre los elementos de algún producto es decir a la gestión de los diversos cambios que se realizan sobre los elementos de algún producto o una configuración. Git, es un software de control de versiones diseñado por Linus Torvalds Y, entonces ¿a qué le llamamos sistema de control de versiones?
+Un sistema de gestión de versiones es la herramienta por excelencia de los desarrolladoras y desarrolladores utilizan para administrar sus proyectos, ordenando así el código de cada una de las nuevas versiones que sacan de sus proyectos o aplicaciones para evitar confusiones. Así, al tener copias de cada una de las versiones de su aplicación, no se perderán los estados anteriores cuando se va a actualizar.
+Así pues, Git es uno de estos sistemas de control, que permite comparar el código de un archivo para ver las diferencias entre las versiones, restaurar versiones antiguas si algo sale mal, y fusionar los cambios de distintas versiones. También permite trabajar con distintas ramas de un proyecto, como la de desarrollo para meter nuevas funciones al programa o la de producción para depurar los bugs.
+Las principales características de la plataforma es que ofrece las mejores características de este tipo de servicios sin perder la simplicidad, y es una de las más utilizadas del mundo por los desarrolladores. Es multiplataforma, y tiene multitud de interfaces de usuario.
+
+Git Hub pertenece a Microsoft
+
+Yo trbajo con Git desde la terminal y desde Visual Studio Code
