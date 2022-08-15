@@ -1,0 +1,8 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+Respuesta: Fue Linus Torvalds, para registrar cambios en proyectos, coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio. Hacer seguimientos de las fases de desarrollo y volver a alguna versión anterior si se requiere.
+
+b. ¿A quién pertenece actualmente GitHub y por qué?
+Respuesta: GitHub fue comprado por Microsoft en 2018 para enfocarse más en el desarrollo y es una estrategia comercial de diversificación.
+
+c. ¿Hay otra forma que no sea la terminal para trabajar con GitHub?
+ Respuesta: Sí, desde la propia plataforma de GitHub podemos subir, eliminar, crear o modificar archivos de un repositorio sin usar la terminal. También desde la plataforma podemos crear ramas, renombrarlas y cambiar de rama.
