@@ -1,0 +1,123 @@
+COMANDOS GIT:
+
+·Genera un repositorio local en la carpeta donde se ejecute este comando.
+ git init
+
+·Establece el usuario y el email para el repositorio local.
+ git config user.name
+ git config user.email
+
+·Establecer el usuario y el email de manera global.
+ git config --global user.name
+ git config --global user.email
+
+·Elimina registros que se refieren al usuario y al email.
+ git config --global --unset user.name
+ git config --global --unset user.email
+
+·Verifica si el repositorio local esta conectado al repositorio remoto. 
+ git remote -v
+
+·Agrega archivo especifico al repositorio.
+ git add "archivo"
+
+·Agrega a todos los archivos al repositorio.
+ git add .
+
+·Confirma los archivos añadidos anteriormente, para poder ser subidos, y en el texto se pone algo significativo de lo que se haya realizado.
+ git commit -m "nombre"
+
+·Subir cambios que se hayan hecho y confirmado anteriormente del repositorio local, al repositorio remoto.
+ git push origin "rama"
+
+·Trae los cambios que se hayan hecho en el repositorio remoto (de la rama especificada) al repositorio local, es decir, se actualiza.
+ git pull origin "rama"
+
+·Hace la union entre ramas.debe estar ubicado en la rama que desea recibir los cambios de la otra rama.
+ git merge "rama"
+
+·Crea una copia en tu computadora de todos los archivos del repositorio remoto que se copie la url.
+ git clone "url"
+
+·Crea una o varias carpetas/directorios a la vez.
+ mkdir "nombre"
+
+·Crea un archivo o varios a la vez.
+ touch "nombre"
+
+·Te da la posibilidad de editar el contenido de un archivo desde la terminal.
+ nano "archivo"
+
+·Elimina un archivo.
+ rm "archivo"
+
+·Elimina carpeta vacia.
+ rmdir
+
+·Elimina una carpeta y su contenido.
+ rm -r
+
+·Renombra archivos o les mueve el contenido de una a la otra.
+ mv "archivo1" "archivo2"
+
+·Lista los archivos en el directorio/carpeta.
+ ls
+
+·Lista todos los archivos  en el directorio/carpeta incluidos los archivos ocultos.
+ ls -a
+
+·Muestra las carpetas y los archivos que contienen.
+ ls -R
+
+·Muestra toda la informacion de una carpeta.
+ ls -l
+
+·Muestra el estado de los archivos respecto al repositorio.
+ git status
+
+·Muestra el historial de los commits hechos.
+ git log
+
+·Enlaza un repositorio remoto a un repositorio local.
+ git remote add origin "url"
+
+·Crea una nueva rama/branch, la cual sera una copia exacta de la principal.
+ git branch "rama"
+
+·Lista branches.
+ git branch --list
+ git branch
+
+·Elimina la rama elegida, pero git lo evita si esta rama tiene cambios que no se han fusionado "merge" con la rama principal
+ git branch -d "rama"
+
+·Fuerza la eliminacion de la rama elegida.
+ git branch -D "rama"
+
+·Crea una rama y te posiciona sobre ella.
+ git checkout -b "rama"
+
+·Te cambia a la rama elegida.
+ git checkout "rama"
+
+·Trae todos los cambios realizados en el repositorio remoto.
+ git pull
+
+·Muestra donde estamos ubicados.
+ pwd
+
+.Limpia la pantalla de la terminal. 
+ clear
+
+·Cambia a la carpeta elegida.
+ cd "nombre"
+
+·Vuelve a la carpeta anterior.
+ cd ..   cd ../
+
+·Restaura todos los archivos eliminados.
+ git retore .
+
+·Restaura archivos a eleccion.
+ git restore ""
+

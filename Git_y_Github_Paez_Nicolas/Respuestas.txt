@@ -1,0 +1,3 @@
+a. Linus Torvalds lo ideo para posibilitar la ramificación y el etiquetado como procesos de primera importancia, es decir, para tener un sistema de control de versiones del codigo fuente.
+b. Github actualmente pertenece a Microsoft, porque GitHub continúa siendo la plataforma más importante de colaboración para proyectos de código abierto.
+c. Si, un ejemplo de esto es Visual Studio Code.
