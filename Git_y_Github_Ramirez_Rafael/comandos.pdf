@@ -1,3 +1,4 @@
+"
 • Git add: para agregar los 
 • Git status: para saber el 
 • Git clone: si es la primera vez 
@@ -25,3 +26,4 @@
 • Git fetch: se usa para descargar contenidos desde un repositorio remoto
 • Git checkout: para cambiarnos de ramas
 Git fetch: muestra los cambios que se han hecho pero no se descargan en el repositorio
+"
