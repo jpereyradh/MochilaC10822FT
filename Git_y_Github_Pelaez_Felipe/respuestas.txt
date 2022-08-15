@@ -1,0 +1,6 @@
+1R/El sistema de control de versiones de Git fue creado por Linus Torvalds, el creador de el sistema operativo linux, ya que se 
+distanció del sistema de control de versiones que usaba para esa época con linux, así que decidió crear su propio sistema.
+
+2R/Github le pertenece actualmente a Microsoft ya que en el año 2018 lo compró por 7500 millones de dolares.
+
+3R/Se puede utilizar Github desktop para crear y administrar un repositorio de Git.

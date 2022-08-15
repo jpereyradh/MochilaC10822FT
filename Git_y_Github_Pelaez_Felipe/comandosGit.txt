@@ -1,0 +1,16 @@
+ cd: Para moverse entre carpetas.
+ touch: Crear archivo.
+ mkdir: Crear carpeta.
+ cd ../: Devolverse entre carpetas.
+ git init: iniciar repositorio.
+ git config: para colocar tu usuario de github y correo.
+ git add. añadir a seguimiento un archivo.
+ git commit: hacer un commit.
+ git clone:clona un repositorio de github.
+ git checkout: te cambia de rama.
+ git branch: crea una rama.
+ git pull o push: trae o envía las cosas de un repositorio.
+ clear: limpia la consola.
+ ls: muestra una lista de las cosas que hay en una carpeta.
+ 
+ 
