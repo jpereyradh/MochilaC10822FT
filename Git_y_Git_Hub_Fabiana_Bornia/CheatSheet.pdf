@@ -1,0 +1,13 @@
+Comandos Básicos
+git status: Nos permite ver el estado de nuestros archivos.
+git add Nos permite añadir un archivo a la Staging o área de preparación.
+● git add nombre_archivo
+● git add . (añade todos los archivos)
+git commit: envía al local repository todos los archivos que fueron agregados.
+git commit -m “mensaje” Udacity Git Commit Message Style Guide
+git reset head: quita los archivos de la zona staged y/o los devuelve a su estado anterior.
+git rm: Nos permite eliminar el archivo del working directory pero no lo elimina del historial ya almacenado en git.
+git rm –cached: Nos permite mover los archivos al estado anterior o untrucked. git rm –force: Nos permite eliminar los archivos de git y del disco duro.
+git branch “nombre”
+git checkout “nombre” para cambiarse
+git checkout -b “nombre” crea y se cambia en el mismo paso. git show muestra el último commit enlazado con dos ramas.
