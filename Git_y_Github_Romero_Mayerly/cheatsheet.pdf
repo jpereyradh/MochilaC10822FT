@@ -1,0 +1,25 @@
+$ git init
+Crear repositorio local
+$ git status
+Verificar el estado de los archivos
+$ git commit -m
+Hacer un snapshot de los cambios en los archivos
+$ git remote -v
+Verificar a que repositorio se subiran los archivos
+$ git clone
+Clonar un repositorio desde github a gitbash
+$ git push
+Subir archivos a la nube en github
+$ git pull
+Actualizar archivos de la nube al repositorio local
+$ git add
+Añadir un archivo en específico al repositorio
+$ git add .
+Añadir todos los archivos que hayan al repositorio
+$ git log
+Historial de todo el repositorio
+$ git branch
+Crear una rama dentro del Main
+$ git checkout
+Posicionarse dentro de la rama
+
