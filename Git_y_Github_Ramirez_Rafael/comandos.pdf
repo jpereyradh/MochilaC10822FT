@@ -1,0 +1,27 @@
+• Git add: para agregar los 
+• Git status: para saber el 
+• Git clone: si es la primera vez 
+• Git branch: enumera todas las ramas de tu repositorio, es similar a git branch --list.
+• Git branch <branch>: crea una nueva rama llamada <branch>.
+• Git branch -d <branch>: elimina la rama llamada <branch>. Git evita que eliminemos la rama si tiene cambios que aún no se han fusionado con la rama Main.
+• Git branch -D <branch>: fuerza la eliminación de la rama especificada, incluso si tiene cambios sin fusionar.
+• Git checkout: para moverse de una rama a otra, se ejecuta el comando git checkout nombre_rama. Generalmente, Git solo permitirá que nos movamos a otra rama si no tenemos cambios. Si tenemos cambios, para cambiarnos de rama, debemos: eliminarlos (deshaciendo los cambios) o confirmarlos (haciendo un git commit).
+• Pwd: me dice dónde estoy parada
+• Ls: me lista los elementos del directorio 
+• Cd: cambiar de directorio. 
+• Cd ..: para devolvernos y cd ../../ para devolvernos más 
+• Mkdir: crear carpetas o directorios
+• Touch: crear archivos. Touch ./historia/repaso ./servidores/repaso para crear directamente archivos dentro de una carpeta
+• Mv: me sirve para mover o renombrar archivos siempre que le ponga como renombre un nombre nuevo que no se encuentre dentro del directorio, si necesito usar espacio debo usar “”
+• Cp: copiar archivos
+• Nano: escribir en un txt
+• Ctrl + X: salir del nano 
+• Cat: mirar lo que escribí 
+• Rm: borrar archivos, -r borrar directorios
+• Git remote add origin + url: agrego a mi repositorio local un repositorio web 
+• Git clone: clono lo que tengo en GitHub de forma local, me traigo todo el proyecto 
+• Git pull: trae todas las ramas
+• Git pull origin main: solo lo principal 
+• Git fetch: se usa para descargar contenidos desde un repositorio remoto
+• Git checkout: para cambiarnos de ramas
+Git fetch: muestra los cambios que se han hecho pero no se descargan en el repositorio
