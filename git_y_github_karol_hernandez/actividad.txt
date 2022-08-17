@@ -1,0 +1,8 @@
+a. Quien invento el sistemade controldr vercion Git y por que?
+ R: Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia
+
+b. Aquien pertenece actualmente Github y por que?
+ R:En palabras sencillas, GitHub es una plataforma o red social para programadores que fue comprada por Microsoft. 
+
+c. Hay otra forma que no se la terminal para trabajar con github?
+ R:si
