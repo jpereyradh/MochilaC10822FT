@@ -1,0 +1,18 @@
+A) Git fue desarrollado originalmente por Linus Torvalds.
+Git se ha ideado para posibilitar la ramificación y el etiquetado como procesos de primera importancia y las operaciones que afectan a las ramas y las etiquetas. También se almacenan en el historial de cambios.
+
+B)Github pertenece a Microsoft desde 2018, la compañía ha adoptado una estrategia nueva, mucho más abierta al mundo del software libre y a la integración con otras plataformas y servicios.
+
+C)La terminal suele ser lo optimo para trabajar con Github pero existe la opcion para trabajar desde la misma pagina de Github.
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+
+A) Git fue desarrollado originalmente por Linus Torvalds.
+Git se ha ideado para posibilitar la ramificación y el etiquetado como procesos de primera importancia y las operaciones que afectan a las ramas y las etiquetas. También se almacenan en el historial de cambios.
+
+B)Github pertenece a Microsoft desde 2018, la compañía ha adoptado una estrategia nueva, mucho más abierta al mundo del software libre y a la integración con otras plataformas y servicios.
+
+C)La terminal suele ser lo optimo para trabajar con Github pero existe la opcion para trabajar desde la misma pagina de Github.	
