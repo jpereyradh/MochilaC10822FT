@@ -1,0 +1,8 @@
+clonar un repo existente: git clone
+crear un repo : git init
+ver el estado de los archivos: git status
+Confirmar subir archivos add : git commit -m " "
+Enviar archivos repo remoto : git push origin master
+Descargar ultimos cambios: git pull origin master
+Subir cambios : git push
+
