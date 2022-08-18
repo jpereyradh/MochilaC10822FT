@@ -22,4 +22,3 @@ $ git branch
 Crear una rama dentro del Main
 $ git checkout
 Posicionarse dentro de la rama
-
