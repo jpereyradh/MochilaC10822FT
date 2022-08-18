@@ -1,0 +1,15 @@
+Preguntas:
+1) MOMENTO 1 PASO 8: ¿Qué paso con el directorio db?
+  - A db se le creó un repositorio local, pero no puede ser commiteado porque no está en seguimiento.
+  
+2) MOMENTO 2 PASO 6: ¿Se guardo lo importante?
+  - No, cuando el archivo “app.js” fue modificado, debe ponerse después “git add .” o “git add app.js” para luego si ser commiteado.
+ 
+3) MOMENTO 4 PASO 1: ¿Esta bien el nombre del commit?
+  - Se debería cambiar el nombre del commit por “Actualización app.js”, pues fue modificado este achivo.
+  
+4) MOMENTO 5 PASO 3: ¿Qué hace este paso?
+  - Se descartan cambios hechos en el directorio de trabajo, en este caso recuperamos el archivo “producto_db.js” que fue eliminado en el paso anterior.
+
+5) MOMENTO 5 PASO 6: ¿Qué paso acá?
+  -Se esta intentado hacer un commit sin un archivo que existía previamente, por lo tanto el commit no puede ser efectuado hasta que el problema se solucione.
