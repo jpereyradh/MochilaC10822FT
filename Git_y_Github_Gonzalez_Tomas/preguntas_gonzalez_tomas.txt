@@ -1,3 +1,0 @@
-a- Lo inventó Linus Torvalds para tener un historial de los cambios hechos en proyectos colaborativos, y resolver discrepancias entre l
-b - Ahora Microsoft es el dueño, y adquirió el servicio para que sea la herramienta propia de Windows, y además para tener acceso a todos los datos de la empresa.
-c - No, no hay otra manera a mi conocer. Se podría usar la interfaz gráfica para subir archivos de manera individual, pero no se aprovecharía.
