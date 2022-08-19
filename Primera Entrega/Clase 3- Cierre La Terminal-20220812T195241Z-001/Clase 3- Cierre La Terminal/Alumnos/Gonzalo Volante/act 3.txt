@@ -1,0 +1,138 @@
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~
+$ cd dh
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh
+$ mkdir peliculas
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh
+$ cd peliculas
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas
+$ mkdir infantiles accion terror comedia romanticas
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas
+$ cd infantiles
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas/infantiles
+$ touch intenzamente.txt "el juego del miedo.xls" "rapido y furioso.pdf" titanic.jpg
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas/infantiles
+$ ls
+'el juego del miedo.xls'  'rapido y furioso.pdf'
+ intenzamente.txt          titanic.jpg
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas/infantiles
+$ cd ..
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas
+$ cd accion
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas/accion
+$ touch "smooth criminal.txt" "diario de una pasion.js" "el hexorcista.xls" cars.jpg
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas/accion
+$ cd peliculas
+bash: cd: peliculas: No such file or directory
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas/accion
+$ cd..
+bash: cd..: command not found
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas/accion
+$ cd ..
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas
+$ cd terror
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas/terror
+$ touch "la dama y el bagavundo.png" "yo antes de ti.xls" "que paso ayer.pdf" "we will rock yoou.js"
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas/terror
+$ cd ..
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas
+$ cd comedia
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas/comedia
+$ touch madagaskar.js "orgullo y prejuicio.txt" it.xls "mision imposible.pdf"
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas/comedia
+$ cd ..
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas
+$ romanticas
+bash: romanticas: command not found
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas
+$ cd romantica
+bash: cd: romantica: No such file or directory
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas
+$ cd romantico
+bash: cd: romantico: No such file or directory
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas
+$ cd romanticos
+bash: cd: romanticos: No such file or directory
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas
+$ cd romanticas
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas/romanticas
+$ touch pocahontas.jpg annabelle.js "los vengadores.js" "la mascara.js"
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas/romanticas
+$ cd ..
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas
+$ cd ..
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh
+$ cd peliculas
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas
+$ ls -R
+.:
+accion/  comedia/  infantiles/  romanticas/  terror/
+
+./accion:
+ cars.jpg                  'el hexorcista.xls'
+'diario de una pasion.js'  'smooth criminal.txt'
+
+./comedia:
+ it.xls   madagaskar.js  'mision imposible.pdf'  'orgullo y prejuicio.txt'
+
+./infantiles:
+'el juego del miedo.xls'  'rapido y furioso.pdf'
+ intenzamente.txt          titanic.jpg
+
+./romanticas:
+ annabelle.js  'la mascara.js'  'los vengadores.js'   pocahontas.jpg
+
+./terror:
+'la dama y el bagavundo.png'  'we will rock yoou.js'
+'que paso ayer.pdf'           'yo antes de ti.xls'
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas
+$ ls -R
+.:
+accion/  comedia/  infantiles/  romanticas/  terror/
+
+./accion:
+ infantiles   romanticas  'smooth criminal.txt'   terror
+
+./comedia:
+accion  infantiles  romanticas  terror
+
+./infantiles:
+'el juego del miedo.xls'   intenzamente.txt  'rapido y furioso.pdf'   titanic.jpg
+
+./romanticas:
+ annabelle.js  'la mascara.js'  'los vengadores.js'   pocahontas.jpg
+
+./terror:
+'la dama y el bagavundo.png'  'que paso ayer.pdf'  'we will rock yoou.js'  'yo antes de ti.xls'
+
+gonzalo@DESKTOP-0E7279N MINGW64 ~/dh/peliculas
+$

@@ -1,0 +1,5 @@
+(desde DH) mkdir ./Peliculas/Infantiles ./Peliculas/Accion ./Peliculas/Terror ./Peliculas/Comedia ./Peliculas/Romanticas
+
+(desde Infantiles) touch Intenzamente.txt "El juego del miedo".xls "Rapido y furioso".pdf Titanic.jpg
+
+$ mkdir ./Peliculas/Romanticas/Prueba
