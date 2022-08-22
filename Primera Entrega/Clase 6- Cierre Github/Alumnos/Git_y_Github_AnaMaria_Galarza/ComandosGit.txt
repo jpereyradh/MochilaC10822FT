@@ -1,0 +1,21 @@
+COMANDOS GITHUB
+
+• Git add: para agregar los archivos.
+• Git commit: para guardar los cambios.
+• Git push origin main: para subirlo a la nube.
+• Git status: para saber el estado del repositorio.
+• Git log: para ver el historial de cambios.
+• Git clone: si es la primera vez utilizas git clone + url del repositorio.
+• Git remote -v: para ver que tu repositorio local esta conectado con tu repositorio en la nube.
+• Git pull origin main: si ya tienes el repositorio local conectado con el de la nube, pero quieres descargar las actualizaciones.
+• Git branch: enumera todas las ramas de tu repositorio, es similar a git branch --list.
+• Git branch <branch>: crea una nueva rama llamada <branch>.
+• Git branch -d <branch>: elimina la rama llamada <branch>. Git evita que eliminemos la rama si tiene cambios que aún no se han fusionado con la rama Main.
+• Git branch -D <branch>: fuerza la eliminación de la rama especificada, incluso si tiene cambios sin fusionar.
+• Git checkout: para moverse de una rama a otra.
+• Git remote add origin + url: agrego a mi repositorio local un repositorio web.
+• Git clone: clono lo que tengo en GitHub de forma local, me traigo todo el proyecto.
+• Git pull: trae todas las ramas.
+• Git pull origin main: solo lo principal.
+• Git fetch: se usa para descargar contenidos desde un repositorio remoto.
+• Git checkout: para cambiarnos de ramas.

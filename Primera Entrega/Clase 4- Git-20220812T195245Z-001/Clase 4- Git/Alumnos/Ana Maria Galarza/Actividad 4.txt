@@ -1,0 +1,12 @@
+Estudiante: Ana María Galarza
+Preguntas.
+1)Momento 1 paso 8:¿Qué paso con el directorio db?
+No pasó nada, ya que es una carpeta y no se puede seguir ñas actualizaciones
+2)Momento 2 paso 6: ¿Se guardo lo importante?
+No, porque el archivo fue modificado y luego de esa modificaciones no se volvió agregar con el comando add, por lo tanto no podemos decir que se guardo la modificación
+3)Momento 4 paso 1: ¿Esta bien el nombre del commit?
+Cosideremos que el nombre no es el más apropiado, ya que la idea de hacer un commit es quepodamos hacer un registro de los cambios hechos sabiendo el autor, la fecha y el tipo de modificacion que se hizo.
+4)Momento 5 paso 3: ¿Qué hace este paso?
+El restorte desahace la accion anterior, es decir que no se borra producto_db.js.
+5)Momento 5 paso 6:¿Qué paso acá?
+No se logra hacer ningun commit ya que config.js fue borrado.
