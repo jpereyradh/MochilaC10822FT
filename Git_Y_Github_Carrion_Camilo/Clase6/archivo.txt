@@ -1,0 +1,21 @@
+a. ¿quien invento el sistema de control de versiones git y por que: 
+linus torvalds para tener una mejor forma de poder realizar 
+actualizaciones y contar con la posibilidad de unificar toda la 
+ramificacion de un proyecto e unificarlos y tener un seguimiento mas 
+preciso.
+
+b, ¿a quien le peretenece actualmente github y por que? microsoft es el 
+actual dueño desde el 4 de junio de 2018, Desde el nombramiento de Satya 
+Nadella como CEO de Microsoft (sustituyendo al infame Steve Ballmer), la 
+compañía ha adoptado una estrategia nueva, mucho más abierta al mundo 
+del software libre y a la integración con otras plataformas y servicios. 
+Un ejemplo es la adquisición en 2016 de Xamarin, una plataforma que 
+permite crear aplicaciones móviles que pueden funcionar en distintos 
+sistemas, como iOS, Android y (por supuesto) Windows. Y es, 
+precisamente, el que fuera CEO de Xamarin, Nat Friedman, quien será 
+nuevo CEO de GitHub. Así pues, esta adquisición es, sin duda, un 
+acercamiento a la comunidad más vibrante en el desarrollo de software 
+libre
+
+c. ¿¿Hay otra forma que no sea la terminal para trabajar con Github?
+en github se puede trabajar desde su propia interfaz grafica o su ide github desktop.
