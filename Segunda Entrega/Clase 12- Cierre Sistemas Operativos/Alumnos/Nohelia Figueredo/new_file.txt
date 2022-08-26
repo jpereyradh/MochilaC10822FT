@@ -1,0 +1,16 @@
+¿Qué es un usuario root en Linux?
+El usuario root en GNU/Linux es el usuario que tiene acceso administrativo al sistema. Los usuarios normales no tienen este acceso por razones de seguridad. Sin embargo, Kubuntu no incluye el usuario root. En su lugar, se da acceso administrativo a usuarios individuales, que pueden utilizar la aplicación "sudo" para realizar tareas administrativas. La primera cuenta de usuario que creó en su sistema durante la instalación tendrá, de forma predeterminada, acceso a sudo.
+
+¿Por qué ubuntu no me deja establecer la contraseña durante la instalación? 
+Cuando se va a ejecutar una aplicación que requiere privilegios de administrador, se supone que no debes añadir una contraseña para la cuenta de root. Tenemos algo llamado el mecanismo sudo para manejar eso. Esto asegura que aplicaciones incontroladas no puedan dañar su sistema, y sirve como recordatorio de que está a punto de realizar acciones administrativas que requieren que tenga cuidado.
+Para usar sudo en la línea de comandos, simplemente escriba "sudo" antes del comando que desea ejecutar. Sudo le pedirá su contraseña.
+Sudo recordará su contraseña durante un periodo de tiempo (predeterminado a 15 minutos). Esta característica se diseñó para permitir a los usuarios realizar múltiples tareas administrativas sin tener que escribir su contraseña cada vez.
+
+¿Cuáles son los procesos típicos de Linux?
+Podríamos definir a los procesos como programas que están corriendo en nuestro Sistema Operativo. Dependiendo de la forma en que corren estos programas en LINUX se los puede clasificar en tres grandes categorías:
+	•	Procesos Normales.
+	•	Procesos Daemon.
+	•	Procesos Zombie.
+Los procesos en GNU/Linux son organizados de forma jerárquica, cada proceso es lanzado por un proceso padre y es denominado proceso hijo. De está forma, todos los procesos en GNU/Linux son hijos de init ya que este es el primer proceso que se ejecuta al iniciar el ordenador y init es padre de todos los procesos. 
+
+4. Para ver los procesos en sistemas Linux, contamos con el comando ‘ ps ’, que listará (de múltiples formas según las opciones que le pasemos) todos los procesos que se encuentran corriendo en nuestro equipo.
