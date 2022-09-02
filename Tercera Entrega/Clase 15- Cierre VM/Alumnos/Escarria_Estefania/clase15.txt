@@ -1,0 +1,15 @@
+● ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?.
+
+Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo. Si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
+Ahora sí es la misma arquitectura de procesador y diferente sistema operativo, en ocasiones el sistema operativo cambia la definición de la interrupción o el llamado de esta
+Cualquier lenguaje de programación puede usarse en un sistema siempre y cuando haya un intérprete o compilador (según corresponda al lenguaje en cuestión) si es que deseas programar en esa máquina con ese sistema operativo. Obvio si no hay tal intérprete o compilador no podrás usar ESE, tu lenguaje favorito, en ese sistema.
+
+● ¿Qué tipo de máquina virtual es virtualBox?.
+VirtualBox es una aplicación que sirve para hacer máquinas virtuales con instalaciones de sistemas operativos. Esto quiere decir que si tienes un ordenador con Windows, GNU/Linux o incluso macOS, puedes crear una máquina virtual con cualquier otro sistema operativo para utilizarlo dentro del que estés usando.
+
+Entre los sistemas operativos soportados (en modo anfitrión) se encuentran GNU/Linux, Mac OS X, OS/2 Warp, Genode,1​ Windows y Solaris/OpenSolaris, y dentro de ellos es posible virtualizar los sistemas operativos FreeBSD, GNU/Linux, OpenBSD, OS/2 Warp, Windows, Solaris, MS-DOS, Genode y muchos otros.
+
+● Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+Las máquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicación de forma separada. De ese modo, si una de ellas falla, no afectará al funcionamiento del resto.
+
