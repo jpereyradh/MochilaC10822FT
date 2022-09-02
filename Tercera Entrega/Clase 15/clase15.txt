@@ -1,0 +1,10 @@
+1. 
+Los sistemas operativos interpretan de una forma diferente por lo tanto no es igual para cada caso y deben ser 
+adaptados, pero hay casos, que el lenguaje tiene maquina virtual y lo hace multiplataforma entonces, la adaptacion
+vendria impilicita.
+2.
+Es un software de virtualizacion el cual nos permite instalar sistemas operativos adicionales dentro de otro
+sistema operativo.
+3.
+No, no sucede nada porque las maquinas son equipos virtuales independientes.
+
