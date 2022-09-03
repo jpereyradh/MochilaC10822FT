@@ -1,0 +1,39 @@
+RESOLUCION DE ACTIVIDAD PROPUESTA EN CLASE DESDE LA TERMINAL UBUNTU
+
+¿Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en
+otros no?
+Respuesta// 
+
+Por que un lenguaje de programacion compila a lenguaje ensamblador el cual es ejecutado por el
+sistema operativo, este lenguaje ensamblador depende de dos cosas, de la arquitectura del procesa-
+dor y la interpretacion que le de el sistema Operativo. Si en la computadora cambia la aquitectura
+del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
+
+Ahora si es la misma arquitectura de porcesador y diferente sistema operativo, en ocaciones el 
+sistema operativo cambia la definicion de la interpretacion o el llamado de esa.
+
+conclusion cualquier lenguaje de porgramacion puede usarse en un sistema siempre y cuando haya un 
+interprete o compilador (segun corresponda al lenguaje en cuention). Si no hay tal interprete
+o compilador, no podra usar el lenguaje en cuestion.
+
+¿Que tipo de maquina virtual es virtualBox?
+Respuesta//
+
+VirtualBox es una aplicacion que sirve para hacer maquinas virtuales con instalaciones de 
+sistemas operativos. Esto quiere decir que si tienes un ordenador Windows, GNU/Linux o incluso 
+macOS, puedes crear una maquina virtual con cualquier otro sistema operativo para utilizar 
+dentro del que estas usando.
+
+VirtualBox es una maquina virtual de porcesos ya que nos permite ejecutar programas informaticos
+en un entorno independiente de la plataforma.
+
+si tengo mas de una maquina virtual instalada, y una se rompe, ¿esto afecta a las demas?¿por que?
+Respuesta//
+
+Las maquinas virtuales de porcesos se ejecutan en un mismo servidor para ejecutar varias 
+instalaciones de la misma aplicacion de forma separada. De ese modo, si una de ellas falla,
+no afectara e funcionamiento del resto.
+
+
+
+
