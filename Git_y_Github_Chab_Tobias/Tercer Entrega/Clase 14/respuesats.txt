@@ -1,0 +1,45 @@
+1.
+-Clojure es un lenguaje compilado
+-Kotlin tambien es un lenguaje compilado
+No obstante, ambos de lenguaje de desglosan de Java, y java se desglosa de C++ que a su vez este es una evolucion 
+de C.
+2.
+Clojure usualmente se utiliza para hacer scraping en aplicativos web, scripts en terminales,contruir sitios web,
+correr juegos sobre OPENGL, servidores usando programacion asincrona, templates, programas multihilos, y simulaciones.
+
+Kotlin se utiliza para desarrollar aplicaciones nativas de android, y el mismo sistema esta basado en el debido
+a que es una evolucion de java
+
+3.
+IDE's
+Netbeans
+Visual Studio Code
+Vim
+Android Studio
+Eclipse
+
+3.
+Framework's
+Luminus es un micro framework de clojure que esta basado en librerias livianas, el mismo provee robustes, esacbilidad,
+y un uso intituivo, en consecuencia, podremos programar sin ningun problema. Se pueden hacer api restful, templates,
+websocket, middleware, es decir, es muy completo para backend.
+
+Javalin es un framework liviano de kotlin el cual soporta websockets, HTTP2, y peticiones asincronas.
+
+4.
+suma en clojure
+(def x 4)
+(def y 5)
+(print (+ x y))  
+
+suma en kotlin
+
+fun main() {
+
+val first: Int = 10
+val second: Int = 20
+
+val sum = first + second
+
+println("The sum is: $sum")
+} 
