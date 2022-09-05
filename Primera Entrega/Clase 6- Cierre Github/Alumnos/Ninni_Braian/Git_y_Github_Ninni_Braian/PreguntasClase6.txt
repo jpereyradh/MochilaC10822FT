@@ -1,0 +1,3 @@
+Git es un software de control de versiones diseñado por Linus Torvalds
+Pertenece a Microsoft
+No, algunas funcjones estan en github, pero sin la terminal no se pueden usar

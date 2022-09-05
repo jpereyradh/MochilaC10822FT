@@ -1,0 +1,57 @@
+----Gama alta -----------------
+
+Intel
+CPu Core i7-10700
+GPU NVIDIA GEFORCE RTX 3090
+MOTHER ASUS ROG Maximus XII Formula Z490 (WiFi 6) LGA 1200 Triple M.2 Aura Sync ATX
+RAM Kingston FURY 16 GB (2 x 8 GB) DDR4-2400 CL15 Memory
+Secundaria Intel DC P4511 2TB
+
+AMD
+CPu Ryzen 7 3800xt
+MOTHER RoG B550-i Gaming
+GPU Radeon 5700XT
+RAM Solid Vengeance LPX 16GB (2x8) 3200 Low Profile
+SECUNDARIA 1TB Mushkin
+
+----Gama media   --------------
+Intel
+Cpu Intel Core i5-11400F 6 Cores 4.4 GHz LGA1200 65W BX8070811400F
+Mother MSI B560M-A PRO LGA 1200 DDR4 PCIe 4 M.2 Slot USB 3.2 Gen 1 2.5G LAN DVI/HDMI mATX
+GPU GeForce GT 1030 2GD4 LP OC
+Ram Aegis 8 (2x4)GB
+Secundaria Kingston NV1 500 GB M.2-2280 NVME Solid State Drive
+
+--
+AMD
+CPU AMD Ryzen 5 5600G 3.9 GHz 6-Core Processor
+GPU AMD Arktek Cyclops Radeon RX 500 Series RX 550 AKR550D5S4GH1 4GB
+Mother A320M Asrock
+Ram Aegis 8 (2x4)GB
+Secundaria Kingston NV1 500 GB M.2-2280 NVME Solid State Drive
+
+
+----Gama baja -----------------
+
+AMD 
+CPU Ryzen 2200g
+Mother A320M-HDV R4.0
+RAM Patriot Signature 4GB DDR3 1600 (PC3-12800) CL11 1.5V 240-Pin UDIMM PSD34G16002
+Secundaria Kingston A400
+
+--
+CPU Intel Core i3 7100
+MOTHER MSI H110M Pro-VD
+RAM 1 x 4GB G.Skill Ripjaws V Series; DDR3-1600
+SECUNDARIA Western Digital Blue 1TB 7200RPM Hard Drive
+
+
+
+----Gama alta personalizada----------------------------------
+CPUIntel i9 10900K
+MOTHER ASUS ROG Maximus XII Formula Z490 (WiFi 6) LGA 1200 Triple M.2 Aura Sync ATX
+RAM G.Skill Trident Z RGB 32 GB (4 x 8 GB) DDR4-3600 CL19
+GPU Asus GeForce RTX 2080 Ti 11 GB STRIX GAMING OC
+SECUNDARIA Seagate FireCuda 530 4 TB M.2-2280 NVME
+
+
