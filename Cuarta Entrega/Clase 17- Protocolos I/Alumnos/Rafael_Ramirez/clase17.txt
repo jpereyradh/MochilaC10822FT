@@ -1,0 +1,5 @@
+Red MAC : DC-53-60-50-2E-1D
+Ipv4 : 192.168.1.3 tipo C
+Ip publica : 179.15.30.52 tipo B
+Mascara de subred : 255.255.255.0
+Placa de red : intel corporate
