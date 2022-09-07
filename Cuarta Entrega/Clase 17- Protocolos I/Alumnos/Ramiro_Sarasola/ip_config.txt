@@ -1,0 +1,96 @@
+PS C:\Users\ramir> ipconfig /all
+
+Configuración IP de Windows
+
+   Nombre de host. . . . . . . . . : RS-LENOVO
+   Sufijo DNS principal  . . . . . :
+   Tipo de nodo. . . . . . . . . . : híbrido
+   Enrutamiento IP habilitado. . . : no
+   Proxy WINS habilitado . . . . . : no
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+   Descripción . . . . . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Dirección física. . . . . . . . . . . . . : 8C-8C-AA-D2-D9-CE
+   DHCP habilitado . . . . . . . . . . . . . : sí
+   Configuración automática habilitada . . . : sí
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Descripción . . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Dirección física. . . . . . . . . . . . . : 0A-00-27-00-00-03
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuración automática habilitada . . . : sí
+   Vínculo: dirección IPv6 local. . . : fe80::6007:9880:18f9:736a%3(Preferido)
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1(Preferido)
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 722075687
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-27-C3-2B-AB-8C-8C-AA-D2-D9-CE
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Descripción . . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Dirección física. . . . . . . . . . . . . : 0A-00-27-00-00-05
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuración automática habilitada . . . : sí
+   Vínculo: dirección IPv6 local. . . : fe80::28a0:dd22:e2b0:823a%5(Preferido)
+   Dirección IPv4 de configuración automática: 169.254.130.58(Preferido)
+   Máscara de subred . . . . . . . . . . . . : 255.255.0.0
+   Puerta de enlace predeterminada . . . . . :
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 386531367
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-27-C3-2B-AB-8C-8C-AA-D2-D9-CE
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de LAN inalámbrica Local Area Connection* 3:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+   Descripción . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #3
+   Dirección física. . . . . . . . . . . . . : B4-0E-DE-FB-1F-E0
+   DHCP habilitado . . . . . . . . . . . . . : sí
+   Configuración automática habilitada . . . : sí
+
+Adaptador de LAN inalámbrica Local Area Connection* 12:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+   Descripción . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #4
+   Dirección física. . . . . . . . . . . . . : B6-0E-DE-FB-1F-DF
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuración automática habilitada . . . : sí
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . :
+   Descripción . . . . . . . . . . . . . . . : Intel(R) Wi-Fi 6 AX200 160MHz
+   Dirección física. . . . . . . . . . . . . : 9A-C3-82-9F-D5-9A
+   DHCP habilitado . . . . . . . . . . . . . : sí
+   Configuración automática habilitada . . . : sí
+   Dirección IPv6 . . . . . . . . . . : 2800:810:46a:aa6::1005(Preferido)
+   Concesión obtenida. . . . . . . . . . . . : Wednesday, September 7, 2022 10:04:42 AM
+   La concesión expira . . . . . . . . . . . : Saturday, October 22, 2022 10:04:44 AM
+   Dirección IPv6 . . . . . . . . . . : 2800:810:46a:aa6:dc59:fe9b:5e3d:72dc(Preferido)
+   Dirección IPv6 temporal. . . . . . : 2800:810:46a:aa6:557e:dc65:43cf:ebc2(Preferido)
+   Vínculo: dirección IPv6 local. . . : fe80::dc59:fe9b:5e3d:72dc%18(Preferido)
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.145(Preferido)
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Concesión obtenida. . . . . . . . . . . . : Wednesday, September 7, 2022 10:04:33 AM
+   La concesión expira . . . . . . . . . . . : Wednesday, September 7, 2022 5:04:35 PM
+   Puerta de enlace predeterminada . . . . . : fe80::ba66:85ff:feef:d77c%18
+                                       192.168.0.1
+   Servidor DHCP . . . . . . . . . . . . . . : 192.168.0.1
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 312132482
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-03-00-01-9A-C3-82-9F-D5-9A
+   Servidores DNS. . . . . . . . . . . . . . : 2800:810:100:4:181:47:248:145
+                                       2800:810:100:3:200:115:192:90
+                                       2800:810:100:1:200:115:192:30
+                                       100.72.3.113
+                                       100.72.3.117
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+PS C:\Users\ramir>
