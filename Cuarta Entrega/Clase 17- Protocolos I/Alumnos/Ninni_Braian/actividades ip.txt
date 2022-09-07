@@ -1,0 +1,7 @@
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.81(Preferido)
+Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+Dirección física. . . . . . . . . . . . . : F0-2F-74-47-D2-F9
+
+La publica es version 4, y la privada version 6.
+
+Informa sobre la placa madre.
