@@ -1,0 +1,13 @@
+Tomas Gonzalez - Direccion MAC: B4-2E-99-F0-F1-3F
+
+Tomas Gonzalez - Direccion IP Publica: 192.168.0.70
+
+Tomas Gonzalez - Direccion IP Privada: 192.168.0.1
+
+Mascara de subred - 255.255.255.0
+
+-----------------
+
+La publica es version 4, y la privada version 6.
+
+Informa sobre la placa madre.
