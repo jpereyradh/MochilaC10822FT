@@ -10,3 +10,5 @@ direccion mac
 
 mascara subred
 255.255.255.0
+
+https://padlet.com/PedagogiaDH/3ysbnvwcth7j0kv9
