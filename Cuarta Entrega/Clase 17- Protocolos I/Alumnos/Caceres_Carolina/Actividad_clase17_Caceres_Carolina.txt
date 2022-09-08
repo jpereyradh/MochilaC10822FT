@@ -1,0 +1,8 @@
+﻿ACTIVIDAD - CLASE 17 - IP
+                                
+¿ La IP pública y privada de qué clase son ?
+RT/ una vez consultadas las direcciones IP:
+* privada: es de clase C
+* pública: es de clase B                                                
+¿ Qué información puedo obtener de la dirección MAC? , vamos a acceder a https://macvendors.com/ y verificar que marca de placa de red 
+RT/ una vez ingresado la dirección MAC, muestra la marca del pc

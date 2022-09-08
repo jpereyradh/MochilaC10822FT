@@ -1,0 +1,15 @@
+﻿ACTIVIDAD CLASE 12
+                                                
+● Investigar y contestar las siguientes preguntas: ¿Que es un usuario root en Linux? 
+RT/ l usuario root en GNU/Linux es el usuario que tiene acceso administrativo al sistema
+¿Por qué ubuntu no me deja establecer la contraseña durante la instalación?
+RT/ Cuando instalamos ubuntu por primera vez en nuestra computadora, establece una clave para Root que es desconocida para todos. Root es el usuario que por default es el administrador del sistema. Muy raramente necesitamos hacer login como root, esto para instalar programas, modificar archivos del systema etc. El primer usuario que es creado a la hora de instalar nuestro sistema es el que tiene acceso a root.
+ ¿Cuáles son los procesos típicos de Linux?¿Cómo identificarlos?.
+RT/ un proceso en Linux es una serie de instrucciones que vienen de un programa que está en ejecución, existen diferentes elementos que incorpora un proceso, como la prioridad de ejecución del proceso que le indica a Linux cuánto de CPU utilizar y el tiempo máximo de ejecución. 
+cuando  Linux se ejecuta, el kernel tiene la primera prioridad de ejecución, conocida como PID 1(proccess ID).  En versiones anteriores de Linux, este proceso era conocido como init que estaba basado en la forma en la que arrancaban el sistema. Ahora, las versiones modernas de Linux utilizan systemd que intenta coordinar la manera en que los procesos son manejados, tal como se mencionó anteriormente PID 1 es el proceso padre y todos los demás procesos ejecutados a partir de este son procesos hijos.
+
+
+Para ver los procesos en sistemas Linux, se cuenta con el comando ps , que listará (de múltiples formas según las opciones que le pasemos) todos los procesos que se encuentran corriendo en nuestro equipo.
+        
+● Investigar y establecer una contraseña para el usuario root. 
+RT/ cuando se restablece el password a root, es necesario que loguearse con una cuenta que tenga acceso sudo (acceso a comandos del root).
