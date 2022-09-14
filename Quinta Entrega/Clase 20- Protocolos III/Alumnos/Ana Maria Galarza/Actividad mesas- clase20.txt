@@ -1,0 +1,22 @@
+Preguntas Realizar en mesa
+
+1.¿Las ip públicas son las mismas? ¿por qué? 
+
+Respuesta: Al conectarte a través de una VPN, los servidores son distintos por lo tanto las direcciones son diferentes
+
+2.¿Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+
+Respuesta: El video no se puede visualizar ya que es contenido no apto para el país o geolocalización en la que nos encontramos, esto se debe a que el video no se encuentra en los servidores locales, por ese motivo nos conectamos a una vpn.
+
+3.Utilizando Tor ¿pudimos localizar la IP ? 
+
+Respuesta: No, se muestra vacía, sin direcciones.
+
+4.¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto? 
+
+Respuesta: Las velocidades en los test son diferentes debido a que en opera al estar conectados a servidores en otras partes del mundo la velocidad disminuye
+
+5.¿Qué significa el valor del ping? El valor del ping, ¿varía entre las diferentes opciones? ¿Por qué? 
+
+Respuesta: Es una constante de tiempo que evalúa el tiempo en el que se envía una petición a una ip y vuelve a su emisor. 
+Si varía, porque cuando usas una vpn, la vpn está entre el emisor que somos nosotros y la página a la que queremos acceder por lo tanto el ping para llegar al emisor tiene que pasar por la vpn por ello genera más latencia.
