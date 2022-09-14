@@ -1,0 +1,41 @@
+Tareas a Realizar
+
+En Opera (o cualquier browser sin VPN) debemos consultar nuestra dirección IP 
+pública y anotar. 
+
+
+
+En Opera con VPN activada debemos consultar nuestra ip y consultar su 
+geolocalización (podemos hacerlo desde la página cual es mi IP) y anotar. 
+
+
+Con Tor y su red activada, debemos consultar nuestra ip y consultar la 
+localización de la misma.
+
+Sin VPN : 181.46.71.80 - Estados Unidos, Cheney
+Con VPN : 77.111.246.40 - Argentina, Tortuguitas
+TOR: 185.195.71.3 
+
+
+Preguntas Realizar en mesa
+
+¿Las ip públicas son las mismas? ¿por qué? 
+
+Al conectarte a través de una VPN, los servidores son distintos por lo tanto las direcciones son diferentes
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+
+R: El video no se puede visualizar ya que es contenido no apto para el país o geolocalización en la que nos encontramos, esto se debe a que el video no se encuentra en los servidores locales, por ese motivo nos conectamos a una vpn.
+
+Utilizando Tor ¿pudimos localizar la IP ? 
+
+No, se muestra vacía, sin direcciones.
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto? 
+
+Las velocidades en los test son diferentes debido a que en opera al estar conectados a servidores en otras partes del mundo la velocidad disminuye
+
+¿Qué significa el valor del ping? El valor del ping, ¿varía entre las diferentes opciones? ¿Por qué? 
+
+Es una constante de tiempo que evalúa el tiempo en el que se envía una petición a una ip y vuelve a su emisor. 
+Si varía, porque cuando usas una vpn, la vpn está entre el emisor que somos nosotros y la página a la que queremos acceder por lo tanto el ping para llegar al emisor tiene que pasar por la vpn por ello genera más latencia.
