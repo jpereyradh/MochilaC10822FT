@@ -1,0 +1,28 @@
+PREGUNTAS IP
+
+1. ¿Las ip públicas son las mismas? ¿por qué?
+   -En el caso de las ip usando vpn si fueron las mismas ya que es la direccion del servidor que tiene esa vpn.
+
+2. Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+   -Sin VPN no me deja verlo debido que existe una restriccion geografica por parte de youtube, al usar el VPN me deja verlo
+    ya que permite acceder de manera privada a la web a traves de un servidor remoto en otra ubicacion, entonces YouTube verá
+    la dirección IP del servidor remoto en lugar de mi verdadera dirección IP, dando la impresión de que estoy en 
+    una ubicación diferente.
+
+3. Utilizando Tor ¿pudimos localizar la IP ? 
+   -No, el unico dato que sumistra es el ISP : F3 Netze e.V.
+
+
+PREGUNTAS SPEEDTEST
+
+1. ¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+   -Esto es debido a la ubicacion del servidor remoto que utiliza el vpn y TOR, al estar mas lejos el tiempo de 
+    envio y llegada de datos es mas lento.
+
+2. ¿Que significa el valor del ping?
+   -el ping es el tiempo que tarda en enviarse un paquete dentro de la red. Esto se mide en milisegundos y mientras menor
+    sea, mejor.
+
+3. El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+   -Es diferente debido a la ubicacion del servidor que provee el servicio,  ya que el ping es el tiempo que tarda en 
+    comunicarse mi conexión local con un equipo remoto en la red.

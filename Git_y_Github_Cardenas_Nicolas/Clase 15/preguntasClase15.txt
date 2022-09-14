@@ -1,0 +1,11 @@
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?.
+   -Porque para poder correr en otro necesita que la arquitectura del procesador y el sistema operativo sean del mismo tipo.
+
+
+2. ¿Qué tipo de máquina virtual es virtualBox?.
+   -Es de sistemas ya que es un software que nos permite ejecutar otro sistema operativo en su interior.
+
+
+3. ¿Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué? 
+   -Las maquinas virtuales cuentan con una funcion que permite tener redundancia entre 2 o mas ambientes, en otras palabras,
+    instancias, y de esta manera si falla uno, no se rompera o habra disrupcion del servicio.
