@@ -1,0 +1,42 @@
+ip publica safari
+ 181.141.145.58
+
+ip publica opera con vpn 
+ 77.111.246.40
+
+ip publica tor
+ 93.174.89.130
+
+Una dirección IP pública es una dirección a la que se puede acceder 
+directamente desde Internet y que su proveedor de servicios de Internet 
+(ISP) asigna a su router de red. Su dispositivo personal tiene una IP 
+privada que permanece oculta cuando se conecta a Internet por medio de la 
+IP pública del router.
+
+speed test
+218mb bajada
+28 subida
+
+Como programa, ping es una utilidad de diagnóstico en redes de 
+computadoras que comprueba el estado de la comunicación del anfitrión 
+local con uno o varios equipos remotos de una red que ejecuten IP.​​ Se vale 
+del envío de paquetes ICMP de solicitud y de respuesta
+
+
+opera speed test vpn
+1.41mb bajada
+13.39mb subida
+
+opera speed test
+108mb subida
+27mb bajada
+
+tor speed test
+no conecto
+
+los ping son diferentes, el mas rapido es el de safaria, despues opera sin 
+vpn, despues opera con vpn y por ultimo tor
+
+las velocidades varian por al estar enrutado por vpn y de cebolla la 
+informacion viaja a diferentes puntos en el planeta lo que lo hace mas 
+lento
