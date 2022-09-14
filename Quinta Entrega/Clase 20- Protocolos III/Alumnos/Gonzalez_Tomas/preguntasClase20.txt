@@ -1,0 +1,35 @@
+﻿OPERA
+Velocidades sin vpn:  300b, 100s, 4ping
+
+
+Velocidades con vpn: 70b, 10s, 70ping
+
+
+TOR: 
+10b, 1s, 200ping
+3b, 0.5s, 150ping
+
+
+
+
+Conclusion: con vpn es mas lento.
+
+
+2201.235.8.78 Direccion Sin vpn
+77.111.246.40 con vpn
+
+
+TOR 
+No, no son los mismos porque la conexion tiene que pasar por un servidor distinto. Cuando usamos un servicio de VPN, todo el tráfico de red va desde nuestro ordenador hasta dicho servidor VPN pasando por nuestro operador de Internet, es decir, tenemos un «salto» adicional hasta llegar al destino de la conexión.
+
+
+
+
+No pudimos localizar la ip correcta con tor.Podemos decir que el ping es el tiempo que tarda en enviarse un paquete dentro de la red. Esto se mide en milisegundos y mientras menor sea, mejor.
+Si, son diferentes, pues cambian los protocolos y distancia fisica hasta los servidores.
+
+
+Podemos decir que el ping es el tiempo que tarda en enviarse un paquete dentro de la red. Esto se mide en milisegundos y mientras menor sea, mejor.
+
+
+Varia por el hecho de que los servidores estan a distancias distintas, y entonces estan limitados fisicamente en sus velocidades de transferencia de datos.
