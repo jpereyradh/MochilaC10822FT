@@ -1,0 +1,7 @@
+1. Esto dependerá de la forma de interpretacion que le demos a nuestro lenguaje de programacion
+a partir de las tres opciones que tenemos disponibles: compilación, máquinas virtuales e
+intérpretes para que se ejecute correctamente el código máquina, el cliente debe tener una
+arquitectura y un sistema operativo similar al del Host.
+2. Virtual Box es una máquina virtual de sistemas con un hipervisor tipo 2, es decir que
+necesitas un sistema operativo para funcionar y puede emular una pc completa
+3. No, porque cada máquina virtual es independiente de las demás.
