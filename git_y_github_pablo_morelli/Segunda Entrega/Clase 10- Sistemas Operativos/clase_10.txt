@@ -1,0 +1,25 @@
+1. 
+Descripcion del SO
+Es un sistema operativo de codigo libre, usa entorno de escritorio Gnome, facil de usar, interfaz
+grafica limpia, ideal para programar, ofimatica y ver multimedia, su nombre clave es DISCO DINGO.
+
+2. Open source?
+SI, es open source, es mantenido por la fundacion cannonical.
+
+3. Requisitos Hard
+2 GB RAM.
+Dual Core Processor (2GHz Speed)
+20 GB free hard disk space.
+Bootable Media like USB or DVD.
+Internet Access (optional but recommended)
+
+4. Como se accede al terminal
+control + alt + t 
+
+5. instalar aplicaciones aplicaciones?
+siempre y cuando se tenga espacio en disco se puede instalar, porque? si queremos usar pentesting, o hacer algo
+desde una maquina virtual se requieren los programas que quiera instalar el usuario y posteriormente vaya a 
+utilizar
+
+6. Se puede instalar juegos pero van a correr con un hardware bastante precario debido a que es una maquina 
+dentro de otra  y al ser domestica, no sera muy potente.
