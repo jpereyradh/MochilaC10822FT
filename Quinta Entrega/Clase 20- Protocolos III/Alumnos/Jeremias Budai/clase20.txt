@@ -1,0 +1,58 @@
+En google sin VPN activado = Dirección IP : 186.138.17.10
+
+En opera con VPN activado =  Dirección IP : 77.111.246.40
+Geolocalización:
+
+País = Estados Unidos
+Latitud =	37.751
+Longitud =	-97.822
+
+En Top = Dirección IP : 185.220.100.241
+Geolocalización:
+
+No muestra nada
+
+
+1.¿Las ip públicas son las mismas? ¿por qué?
+
+Cambia la ubicación aparente redirigiendo el tráfico a través de un servidor que está ubicado en otro lugar, por este motivo
+las ip.
+
+2.Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, 
+¿que es lo que sucedió?¿Por qué?
+
+Con opera y su VPN activado nos permite ver el video, en caso de usar un browser sin vpn no nos permite ver el video, esto sucede,
+debido a que el video esta publicado para verse en una zona geografica y al utilizar el VPN hacemos de cuenta que la informacion pedida
+la hacemos desde otro lugar.
+
+3.Utilizando Tor ¿pudimos localizar la IP ?
+
+No nos permitio localizar la ip.
+
+_________________________________________________________________
+
+En Opera sin VPN:
+Velocidad de subida: 27.38
+Velocidad bajada: 83.25
+Ping: 26
+
+En Opera con VPN activada:
+Velocidad de subida: 24.78
+Velocidad bajada: 62.96
+Ping:  207
+
+Con Tor y su red activada:
+Velocidad de subida: 6.49
+Velocidad bajada: 0.90
+Ping:  740
+
+1.¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+Nuestro tráfico en vez de viajar directamente desde nuestro ordenador al destino, sufre un desvío y se ve afectado por
+diferentes retardos y saturaciones que hacen que la velocidad se reduzca drásticamente
+
+2.¿Que significa el valor del ping?
+El ping es la medida que se ocupa para medir la latencia y es expresado en milisegundos.
+
+3.El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+Si, esto se debe a la distancia que tienen que recorrer los datos, ya que nos encontramos conectados a distintos servidores en distintas
+partes del mundo.
